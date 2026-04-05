@@ -9,7 +9,7 @@ import type {
 } from "@/types/finance";
 
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL?.trim() || "http://localhost:4000/api";
+  process.env.NEXT_PUBLIC_API_BASE_URL?.trim() || "http://localhost:4000";
 
 type ApiErrorPayload = {
   code: string;

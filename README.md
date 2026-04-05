@@ -10,7 +10,7 @@ Simple Next.js + shadcn UI frontend to interact with the backend assignment APIs
 
 2. Make sure it has:
 
-   - `NEXT_PUBLIC_API_BASE_URL=http://localhost:4000/api`
+   - `NEXT_PUBLIC_API_BASE_URL=http://localhost:4000`
 
 3. Run frontend:
 
